@@ -67,6 +67,3 @@ git remote -v
 git config user.name "saurabh"
 git config user.email "csit.saurabh@gmail.com"
 ```
-
-
-d
